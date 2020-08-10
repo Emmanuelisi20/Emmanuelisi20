@@ -1,16 +1,69 @@
-### Hi there 👋
+### Hi there, I'm Emmanuel Isidahomen 👋
 
-<!--
-**Emmanuelisi20/Emmanuelisi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Ever since I was young growing up in Nigeria, I always wondered how websites were made and what applications could be applied in creating a great website. When I moved to the United States for my studies, I was curious to know how I could explore both technology and art. This led to me choosing computer science as my major for my undergraduate degree. With my computer science curriculum, I was exposed to different data structures, algorithms, and programming languages like C++ and Java. My projects in my software development classes exposed me to HTML, CSS, and JavaScript.
+I also had different outside school activities like the National Society of Black Engineers club (NSBE), which allowed me to develop my technical professional presence by going to tech conferences and attending professional development seminars. The Louis Stokes Alliance for Minority Participation research club allowed me to develop my STEM research skills. I became more intrigued by how code could be used to make images, colors, shapes, and animations. 
+This is what ultimately led me to the idea of a front-end developer as a career. Determined, I enrolled in an online Udemy Web Development course. The course introduced me to the programming tools used by front-end developers and also showed me how to better approach a potential project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱✨ Life is a teacher the more we live the more we learn 🌱✨
+
+- 🥅 Goals: My goals for this year would be to keep learning and developing my soft and technical skills  
+
+- ⚡ Things I love to do for Fun: I love to draw / watch anime and  / going to the gym with friends 
+
+### Connect with me:
+
+[<img align="left" alt="isi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio]
+[<img align="left" alt="isi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="isi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
+
+### Languages and Tools I am Currently Learning 🤓:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br />
+<br />
+
+---
+
+<h3> Browser Compatibility </h3>
+<Center><table>
+  <tr align="center">
+    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
+    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
+    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /> </td>
+    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png" /> </td>
+    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td>
+  </tr>
+  <tr align="center">
+    <td> ✔ </td>
+    <td> ✔ </td>
+    <td> ✔ </td>
+    <td> ✔ </td>
+    <td> ✔ </td>
+  </tr>
+</table>
+</Center>
+
+---
+
+### 📺 Udemy Online Resources That I Am Currently Learning  
+<!--START -->
+- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+<!-- END -->
+
+---
+
+[Portfolio]: https://emmanuelisi-portfolio.netlify.app/
+[twitter]: https://twitter.com/EmmanuelIsidah7
+[linkedin]: https://www.linkedin.com/in/emmanuel-isidahomen-0b9341181/
