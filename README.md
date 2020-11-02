@@ -22,7 +22,7 @@ Ever since I was young growing up in Nigeria, I always wondered how websites wer
 
 ---
 
-- Firebase (Authentication, Hosting)
+- Firebase and Netify for (Authentication and Hosting)
 <p>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" height="40"/>
