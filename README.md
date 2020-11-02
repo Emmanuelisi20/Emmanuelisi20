@@ -40,6 +40,18 @@ Ever since I was young growing up in Nigeria, I always wondered how websites wer
 </p>
 
 <br />
+<br />
+
+---
+<h1 align="center">Stats ✨</h1>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelisi20&layout=compact" alt="eni4sure" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelisi20&show_icons=true" alt="eni4sure" />
+</div>
+
+<br />
 
 ### Languages and Tools I am Currently Learning 🤓:
 
