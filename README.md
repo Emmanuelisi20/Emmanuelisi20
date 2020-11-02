@@ -3,8 +3,6 @@
 ## About Me
 
 Ever since I was young growing up in Nigeria, I always wondered how websites were made and what applications could be applied in creating a great website. When I moved to the United States for my studies, I was curious to know how I could explore both technology and art. This led to me choosing computer science as my major for my undergraduate degree. With my computer science curriculum, I was exposed to different data structures, algorithms, and programming languages like C++ and Java. My projects in my software development classes exposed me to HTML, CSS, and JavaScript.
-I also had different outside school activities like the National Society of Black Engineers club (NSBE), which allowed me to develop my technical professional presence by going to tech conferences and attending professional development seminars. The Louis Stokes Alliance for Minority Participation research club allowed me to develop my STEM research skills. I became more intrigued by how code could be used to make images, colors, shapes, and animations. 
-This is what ultimately led me to the idea of a front-end developer as a career. Determined, I enrolled in an online Udemy Web Development course. The course introduced me to the programming tools used by front-end developers and also showed me how to better approach a potential project.
 
 - 🌱✨ Life is a teacher the more we live the more we learn 🌱✨
 
