@@ -18,6 +18,28 @@ Ever since I was young growing up in Nigeria, I always wondered how websites wer
 
 
 <br />
+<br />
+
+---
+
+- Firebase (Authentication, Hosting)
+<p>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" height="40"/>
+</p>
+
+<br />
+<br />
+
+---
+
+- Using Git/GitHub for efficient code management, code contribution and to set up continuous integration and development.
+<p>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
+</p>
+
+<br />
 
 ### Languages and Tools I am Currently Learning 🤓:
 
