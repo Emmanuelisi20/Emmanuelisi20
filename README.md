@@ -52,6 +52,9 @@ Ever since I was young growing up in Nigeria, I always wondered how websites wer
 </div>
 
 <br />
+<br />
+
+---
 
 ### Languages and Tools I am Currently Learning 🤓:
 
