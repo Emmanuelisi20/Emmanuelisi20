@@ -1,4 +1,4 @@
-### Hi there, my name is Emmanuel Isidahomen 👋
+### Hi there, my name is Emmanuel 👋
 
 ![image](https://user-images.githubusercontent.com/50160339/126400295-4b59ae99-d287-4c46-a8b4-b11e6468d994.png)
 
