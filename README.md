@@ -27,6 +27,15 @@ Emmanuel has always been interested in technology from a young age. Growing up i
 - Google IT Certification ⚡
 - CompTIA A++ ⚡
 
+---
+
+### 📺 Online Resources That I Am Currently Learning  
+<!--START -->
+- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+- [professormesser](https://www.professormesser.com/)
+- More in progress...
+<!-- END -->
 
 ## Advice:
 
@@ -115,14 +124,6 @@ Emmanuel has always been interested in technology from a young age. Growing up i
   </tr>
 </table>
 </Center>
-
----
-
-### 📺 Udemy Online Resources That I Am Currently Learning  
-<!--START -->
-- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
-- [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-<!-- END -->
 
 ---
 
