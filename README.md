@@ -126,6 +126,6 @@ Emmanuel has always been interested in technology from a young age. Growing up i
 
 ---
 
-## [Portfolio]:  #inprogress 
-## [twitter]: https://twitter.com/EmmanuelIsidah7
-## [linkedin]: https://www.linkedin.com/in/emmanuel-isidahomen-0b9341181/
+[Portfolio]:  #inprogress 
+[twitter]: https://twitter.com/EmmanuelIsidah7
+[linkedin]: https://www.linkedin.com/in/emmanuel-isidahomen-0b9341181/
