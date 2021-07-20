@@ -1,8 +1,32 @@
-### Hi there, I'm Emmanuel Isidahomen 👋
+### Hi there, my name is Emmanuel Isidahomen 👋
+
+![image](https://user-images.githubusercontent.com/50160339/126400295-4b59ae99-d287-4c46-a8b4-b11e6468d994.png)
+
 
 ## About Me
 
-Ever since I was young growing up in Nigeria, I always wondered how websites were made and what applications could be applied in creating a great website. When I moved to the United States for my studies, I was curious to know how I could explore both technology and art. This led to me choosing computer science as my major for my undergraduate degree. With my computer science curriculum, I was exposed to different data structures, algorithms, and programming languages like C++ and Java. My projects in my software development classes exposed me to HTML, CSS, and JavaScript.
+Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, National Society of Black Engineers club, and Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages including C++, Java, and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. So far Emmanuel has been able to have some experience in IT support and system admin support to end-users. Being able to use ticket systems to provide good documentation to end-users and resolving problems by improving customers satisfaction.
+
+HARD SKILLS:
+
+• Programming/Scripting Languages: PowerShell, HTML5, CSS3, Java.
+• Source Code Editor/Version Control: Atom, Visual Studio Code, Chrome Developer Tools, Git.
+• Integrated Development Environments/Open Source: GitHub, Word Press, MS Visual Studio.
+• Cloud Directory/Office365: Microsoft 365, Microsoft Teams, SharePoint, Microsoft PowerApps, Microsoft Azure Active Directory.
+• Inventory Database: STUFF, Firebase.
+• Operating Systems: Linux (Ubuntu), Windows 7/10.
+
+SOFT SKILLS:
+
+• Flexibility
+• Problem solving
+• Teamwork
+
+ONGOING CERTIFICATIONS:
+
+• Google IT Certification
+• CompTIA A++
+
 
 - 🌱✨ Life is a teacher the more we live the more we learn 🌱✨
 
