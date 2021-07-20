@@ -7,32 +7,35 @@
 
 Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, National Society of Black Engineers club, and Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages including C++, Java, and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. So far Emmanuel has been able to have some experience in IT support and system admin support to end-users. Being able to use ticket systems to provide good documentation to end-users and resolving problems by improving customers satisfaction.
 
-HARD SKILLS:
+## HARD SKILLS:
 
-• Programming/Scripting Languages: PowerShell, HTML5, CSS3, Java.
-• Source Code Editor/Version Control: Atom, Visual Studio Code, Chrome Developer Tools, Git.
-• Integrated Development Environments/Open Source: GitHub, Word Press, MS Visual Studio.
-• Cloud Directory/Office365: Microsoft 365, Microsoft Teams, SharePoint, Microsoft PowerApps, Microsoft Azure Active Directory.
-• Inventory Database: STUFF, Firebase.
-• Operating Systems: Linux (Ubuntu), Windows 7/10.
+- Programming/Scripting Languages: PowerShell, HTML5, CSS3, Java.
+- Source Code Editor/Version Control: Atom, Visual Studio Code, Chrome Developer Tools, Git.
+- Integrated Development Environments/Open Source: GitHub, Word Press, MS Visual Studio.
+- Cloud Directory/Office365: Microsoft 365, Microsoft Teams, SharePoint, Microsoft PowerApps, Microsoft Azure Active Directory.
+- Inventory Database: STUFF, Firebase.
+- Operating Systems: Linux (Ubuntu), Windows 7/10.
 
-SOFT SKILLS:
+## SOFT SKILLS:
 
-• Flexibility
-• Problem solving
-• Teamwork
+- Flexibility
+- Problem solving
+- Teamwork
 
-ONGOING CERTIFICATIONS:
+## ONGOING CERTIFICATIONS:
 
-• Google IT Certification
-• CompTIA A++
+- Google IT Certification ⚡
+- CompTIA A++ ⚡
 
+
+## Advice:
 
 - 🌱✨ Life is a teacher the more we live the more we learn 🌱✨
 
-- 🥅 Goals: My goals for this year would be to keep learning and developing my soft and technical skills  
+- 🥅 Goals: My goals for this year would be to keep learning and developing my soft and technical skills 🥅  
 
-- ⚡ Things I love to do for Fun: I love to draw / watch anime and  / going to the gym with friends 
+- ⚡ Things I love to do for Fun: I love to draw / watch anime and  / going to the gym with friends ⚡ 
+
 
 ### Connect with me:
 
@@ -46,7 +49,7 @@ ONGOING CERTIFICATIONS:
 
 ---
 
-- Firebase and Netify for (Authentication and Hosting)
+##  Firebase and Netify for (Authentication and Hosting)
 <p>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="firebase" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg" alt="netlify" height="40"/>
@@ -57,7 +60,7 @@ ONGOING CERTIFICATIONS:
 
 ---
 
-- Using Git/GitHub for efficient code management, code contribution and to set up continuous integration and development.
+##  Using Git/GitHub for efficient code management, code contribution and to set up continuous integration and development.
 <p>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" height="40"/> 
@@ -123,6 +126,6 @@ ONGOING CERTIFICATIONS:
 
 ---
 
-[Portfolio]: https://emmanuelisi-portfolio.netlify.app/
-[twitter]: https://twitter.com/EmmanuelIsidah7
-[linkedin]: https://www.linkedin.com/in/emmanuel-isidahomen-0b9341181/
+## [Portfolio]:  #inprogress 
+## [twitter]: https://twitter.com/EmmanuelIsidah7
+## [linkedin]: https://www.linkedin.com/in/emmanuel-isidahomen-0b9341181/
