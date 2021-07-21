@@ -9,12 +9,15 @@ Emmanuel has always been interested in technology from a young age. Growing up i
 
 ## HARD SKILLS:
 
-- Programming/Scripting Languages: PowerShell, HTML5, CSS3, Java.
-- Source Code Editor/Version Control: Atom, Visual Studio Code, Chrome Developer Tools, Git.
-- Integrated Development Environments/Open Source: GitHub, Word Press, MS Visual Studio.
-- Cloud Directory/Office365: Microsoft 365, Microsoft Teams, SharePoint, Microsoft PowerApps, Microsoft Azure Active Directory.
-- Inventory Database: STUFF, Firebase.
-- Operating Systems: Linux (Ubuntu), Windows 7/10.
+- Cloud Services SaaS/BaaS Software: Microsoft 365, Microsoft Teams, Microsoft Admin, Microsoft SharePoint, Microsoft PowerApps, Microsoft Power Automate, Microsoft Excel, Microsoft Form’s, Microsoft Powerpoint, Microsoft Azure Active Directory, Google Drive, Gmail, Firebase.
+- Programming/Scripting Languages: PowerShell, HTML5, CSS3, Python.
+- IDE Code Editor/OS Version Control: Atom, Visual Studio Code, Chrome Developer Tools, GitHub, Git.
+- Ticket Documentation/CRM: Microsoft Dynamics 365, Monday.com, SIM-Trouble Ticket.
+- Operating Systems: Linux (Ubuntu), Microsoft Windows 7/10, Mac OS.
+- Remote Support Software: Team Viewer, Windows Remote Desktop, Quick Assist.
+- Virtualization: Virtual Box, Hyper-V.
+- IT Asset Management System: STUFF.
+
 
 ## SOFT SKILLS:
 
