@@ -2,29 +2,6 @@
 
 Hi there, my name is Emmanuel 👋
 
-## HARD SKILLS:
-
-- Cloud Services SaaS/BaaS Software: Microsoft 365, Microsoft Teams, Microsoft Admin, Microsoft SharePoint, Microsoft PowerApps, Microsoft Power Automate, Microsoft Excel, Microsoft Form’s, Microsoft Powerpoint, Microsoft Azure Active Directory, Google Drive, Gmail, Firebase.
-- Programming/Scripting Languages: PowerShell, HTML5, CSS3, Python.
-- IDE Code Editor/OS Version Control: Atom, Visual Studio Code, Chrome Developer Tools, GitHub, Git.
-- Ticket Documentation/CRM: Microsoft Dynamics 365, Monday.com, SIM-Trouble Ticket.
-- Operating Systems: Linux (Ubuntu), Microsoft Windows 7/10, Mac OS.
-- Remote Support Software: Team Viewer, Windows Remote Desktop, Quick Assist.
-- Virtualization: Virtual Box, Hyper-V.
-- IT Asset Management System: STUFF.
-
-
-## SOFT SKILLS:
-
-- Flexibility
-- Problem solving
-- Teamwork
-
-## ONGOING CERTIFICATIONS:
-
-- Google IT Certification ⚡
-- CompTIA A++ ⚡
-
 ---
 
 ### 📺 Online Resources That I Am Currently Learning  
