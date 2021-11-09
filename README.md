@@ -13,6 +13,8 @@
 🏔 *Talk about hobbies (for example, In my free time, you can find me rock climbing) (1 sentence)
 
 💪🏽 *Highlight your strengths, use keywords (for example, Social Media Strategy, Content Creation, Marketing Research) (5-6)
+
+
 ---
 
 ### 📺 Online Resources That I Am Currently Learning  
