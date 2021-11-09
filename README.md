@@ -1,7 +1,18 @@
 ### About Me
 
-Hi there, my name is Emmanuel 👋
+👋🏽 Hi, my name is Emmanuel
 
+🎓 I grad with a Bachelor's of Science in Computer Science . (May 2020)
+
+🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with programming and IT.
+
+📚 *Talk about your past experience, your present experience, and what you did (about 4-5 sentences)
+
+💻 *Talk about what you want to do in the future (for example: As for my future, I hope to one day work as X role and work with a diverse team) (2 sentences)
+
+🏔 *Talk about hobbies (for example, In my free time, you can find me rock climbing) (1 sentence)
+
+💪🏽 *Highlight your strengths, use keywords (for example, Social Media Strategy, Content Creation, Marketing Research) (5-6)
 ---
 
 ### 📺 Online Resources That I Am Currently Learning  
