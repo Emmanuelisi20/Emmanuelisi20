@@ -16,23 +16,6 @@ Emmanuel has always been interested in technology from a young age. Growing up i
 
 So far Emmanuel has been able to have some experience in IT support to end-users. Being able to use ticket systems to provide good documentation to end-users and resolve problems by improving customers satisfaction.
 
-☁️ HARD SKILLS ☁️
-
-➯ Cloud Services SaaS/BaaSSoftware's: Microsoft Office 365 Admin | Azure Active Directory | Firebase.
-➯ Database /Scripting Languages: PowerShell | SQL | Mongoose | MongoDB | |HTML5| CSS3| XML | JavaScript’s | Python.
-➯ IDE Code Editor/OS VersionControl: Atom| Visual StudioCode | Chrome Developer Tools |GitHub|Git | Notepad++.
-➯ Frameworks: Bootstrap | jQuery| Node.js | Reacts.js | Express.js.
-➯ Ticket Documentation/CRM: SIM-Trouble Ticket | MicrosoftDynamics 365 | Monday.com.
-➯ Remote Support Software: Team Viewer | Remote Desktop | Quick Assist | SSH.
-➯ Graphic Editor: Photoshop.    
-
-☁️ SOFT SKILLS ☁️
-
-➯ Leadership 
-➯ Problem-solving
-➯ Teamwork
-
-
 ---
 
 ### 📺 Online Resources That I Am Currently Learning  
