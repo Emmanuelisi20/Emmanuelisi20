@@ -7,6 +7,32 @@
 🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with programming and IT.
 
 
+---   
+
+
+☁️ PROFESSIONAL SUMMARY ☁️
+
+Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, National Society of Black Engineers club, and Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. 
+
+So far Emmanuel has been able to have some experience in IT support to end-users. Being able to use ticket systems to provide good documentation to end-users and resolve problems by improving customers satisfaction.
+
+☁️ HARD SKILLS ☁️
+
+➯ Cloud Services SaaS/BaaSSoftware's: Microsoft Office 365 Admin | Azure Active Directory | Firebase.
+➯ Database /Scripting Languages: PowerShell | SQL | Mongoose | MongoDB | |HTML5| CSS3| XML | JavaScript’s | Python.
+➯ IDE Code Editor/OS VersionControl: Atom| Visual StudioCode | Chrome Developer Tools |GitHub|Git | Notepad++.
+➯ Frameworks: Bootstrap | jQuery| Node.js | Reacts.js | Express.js.
+➯ Ticket Documentation/CRM: SIM-Trouble Ticket | MicrosoftDynamics 365 | Monday.com.
+➯ Remote Support Software: Team Viewer | Remote Desktop | Quick Assist | SSH.
+➯ Graphic Editor: Photoshop.    
+
+☁️ SOFT SKILLS ☁️
+
+➯ Leadership 
+➯ Problem-solving
+➯ Teamwork
+
+
 ---
 
 ### 📺 Online Resources That I Am Currently Learning  
@@ -83,27 +109,6 @@
 
 <br />
 <br />
-
----
-
-<h3> Browser Compatibility </h3>
-<Center><table>
-  <tr align="center">
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png" /> </td>
-    <td> <img src="https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png" /> </td>
-  </tr>
-  <tr align="center">
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-    <td> ✔ </td>
-  </tr>
-</table>
-</Center>
 
 ---
 
