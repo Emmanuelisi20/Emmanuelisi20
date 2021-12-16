@@ -4,7 +4,7 @@
 
 🎓 I grad with a Bachelor's of Science in Computer Science . (May 2020)
 
-🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with programming and IT.
+🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with Programming and IT Infastrutures
 
 
 ---   
