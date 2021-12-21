@@ -6,7 +6,6 @@
 
 🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with Programming and IT Infastrutures
 
-![image](https://user-images.githubusercontent.com/50160339/146877969-6fc4550f-520a-49ee-9aca-6837e1439e94.png)
 
 ---   
 
@@ -16,6 +15,9 @@
 Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, National Society of Black Engineers club, and Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. 
 
 Emmanuel has been able to have 7 years experiences in the Information Technology industry. Always striving to keep expanding and deepening his technical knowledge pool and exceed customers’ expectations by being able to use ticket systems to provide good documentation to end-users and resolve problems by improving customers satisfaction.
+
+![image](https://user-images.githubusercontent.com/50160339/146878069-aa51dfa9-1432-4a8d-a7e2-3c3d1a08925b.png)
+
 
 ---
 
