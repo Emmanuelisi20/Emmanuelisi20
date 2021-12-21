@@ -6,6 +6,7 @@
 
 🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with Programming and IT Infastrutures
 
+![image](https://user-images.githubusercontent.com/50160339/146877969-6fc4550f-520a-49ee-9aca-6837e1439e94.png)
 
 ---   
 
