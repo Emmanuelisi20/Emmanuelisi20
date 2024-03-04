@@ -2,9 +2,9 @@
 
 👋🏽 Hi, my name is Emmanuel
 
-🎓 I grad with a Bachelor's of Science in Computer Science . (May 2020)
+🎓 I graduated with a Bachelor of Science in Computer Science. (May 2020)
 
-🌇 Origanlly Born in Nigeria but grew up here in the states. I have a passion for developing webdev and learning new technolgies with Programming and IT Infastrutures
+🌇 Originally Born in Nigeria but grew up here in the States. I have a passion for developing web dev and learning new technologies with Programming and IT Infrastructure
 
 
 ---   
@@ -12,9 +12,9 @@
 
 ☁️ PROFESSIONAL SUMMARY ☁️
 
-Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, National Society of Black Engineers club, and Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. 
+Emmanuel has always been interested in technology from a young age. Growing up in Nigeria, he was always curious about technology and how it would impact our society. Emmanuel graduated from The University of Maryland Eastern Shore with a Bachelor of Science in Computer Science. During his time in college, his activities included the Association for Computing Machinery club, the National Society of Black Engineers club, and the Louis Stokes Alliance for Minority Participation research club. During his academic career, he learned various valuable technology skills while working on different projects and also learned different programming languages and web development. His near-future goals are to become a Developer or an IT Specialist. He feels that this career would help him grow his creative and technical mindset. 
 
-Emmanuel has been able to have 3 years experiences in the Information Technology industry. Always striving to keep expanding and deepening his technical knowledge pool and exceed customers’ expectations by being able to use ticket systems to provide good documentation to end-users and resolve problems by improving customers satisfaction.
+Emmanuel is an IT professional with experience in software engineering, technical support, and project management. At General Motors and Amazon, Emmanuel has worked on IT projects, solved complex technical issues, and contributed to team success with my skills in Java, Angular, and cloud technologies. Passionate about innovation and continuous learning, I aim to drive impactful solutions in tech.
 
 ![image](https://user-images.githubusercontent.com/50160339/146878069-aa51dfa9-1432-4a8d-a7e2-3c3d1a08925b.png)
 
@@ -35,7 +35,7 @@ Emmanuel has been able to have 3 years experiences in the Information Technology
 
 - 🥅 Goals: My goals for this year would be to keep learning and developing my soft and technical skills 🥅  
 
-- ⚡ Things I love to do for Fun: I love to draw / watch anime and  / going to the gym with friends ⚡ 
+- ⚡ Things I love to do for Fun: I love to draw/watch anime and  / go to the gym with friends ⚡ 
 
 
 ### Connect with me:
